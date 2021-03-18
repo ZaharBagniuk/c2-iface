@@ -1,0 +1,14 @@
+.sidebar.with-transition {
+    top: 50px;
+    background: #037aa7;
+    z-index: 5;
+    position: fixed;
+}
+
+.sidebar div[class*="sidenav---selected"] {
+    font-weight: bold;
+}
+
+.sidebar div[class*="sidenav---navitem"][role="menuitem"]:hover {
+    cursor: pointer;
+}

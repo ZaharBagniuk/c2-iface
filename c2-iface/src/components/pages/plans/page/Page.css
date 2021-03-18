@@ -1,0 +1,21 @@
+.plans-header {
+    display: flex;
+    align-items: baseline;
+}
+
+.plans-header > h1 {
+    font-size: 22px;
+    font-weight: 200;
+    color: #58585b;
+    padding-right: 15px;
+}
+
+.plans-header > .search-form > input {
+    width: 300px;
+}
+
+.empty-results {
+    color: #9e9ea2;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,11 @@
+{
+  "administration": "Administration",
+  "plans": "Plans",
+  "dashboard": "Dashboard",
+  "dashboardDetails": "Dashboard Details",
+  "id": "ID",
+  "name": "Name",
+  "description": "Description",
+  "childCount": " Child Count",
+  "emptyResults": "There are no objects matching this search criteria"
+}

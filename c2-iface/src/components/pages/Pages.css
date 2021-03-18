@@ -1,0 +1,12 @@
+main {
+    padding-top: 50px;
+}
+
+.page > div {
+    padding-top: 15px;
+    padding-left: 90px;
+}
+
+.page > div.with-sidebar {
+    padding-left: 265px;
+}

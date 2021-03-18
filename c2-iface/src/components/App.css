@@ -1,0 +1,14 @@
+.with-transition {
+    transition: .5s ease all;
+}
+
+.logo {
+    background-image: url('https://continuity2.com/site/img/graphics/logo.svg');
+    width: 50px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: left;
+    margin: 10px 15px;
+    filter: invert(50%) sepia(50%) saturate(0);
+}

@@ -14,6 +14,7 @@ const Page = props => {
 
     const {plans} = props;
 
+    // TODO:2020-19-03:zbahniuk: fix loading state for the page
     if (!plans) {
         return <Loader />;
     }
